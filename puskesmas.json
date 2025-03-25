@@ -1,0 +1,284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngemplak II",
+        "address": "Jalan Besi Raya, Jetis, Wedomartani, Ngemplak, Sleman, Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44472044687632,
+          -7.703193221482721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngemplak I",
+        "address": " Koroulon, Ds. Bimomartani, Kec. Ngemplak 55584"
+      },
+      "geometry": {
+        "coordinates": [
+          110.46486625859177,
+          -7.699753250138542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngaglik 1",
+        "address": " Jl. Kaliurang KM 10, Gondangan, sardonoharjo,Kec. Ngaglik 55581"
+      },
+      "geometry": {
+        "coordinates": [
+          110.402734233888,
+          -7.722128508389318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pakem",
+        "address": "Jl. KALIURANG Tegalsari KM 17,5, Kec. Pakem 55582 "
+      },
+      "geometry": {
+        "coordinates": [
+          110.42168614165172,
+          -7.660189905397544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "puskesmas cangkringan",
+        "address": "Panggung,Ds. Argomulyo, Kec. Cangkringan 5583 "
+      },
+      "geometry": {
+        "coordinates": [
+          110.45642990605279,
+          -7.664725650319539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Nganglik 2",
+        "address": "jL. Tentara Pelajar Km 13, Kayunan Ds. Donoharjo, Kec. Ngaglik 55581 "
+      },
+      "geometry": {
+        "coordinates": [
+          110.38867367030866,
+          -7.689665027868813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Moyudan",
+        "address": "Ngentak, Sumberagung, Moyudan, Sleman "
+      },
+      "geometry": {
+        "coordinates": [
+          110.25285903813705,
+          -7.77603542081728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Minggir",
+        "address": "Minggir III,Kebon Agung Ds. Sendang Agung, Kec. Minggir 55562 "
+      },
+      "geometry": {
+        "coordinates": [
+          110.23904104035091,
+          -7.721338691746297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Seyegan",
+        "address": "Jl. KEBON AGUNG KM 10,8 Ds, Margokaton, Kec. Seyegan 5561"
+      },
+      "geometry": {
+        "coordinates": [
+          110.30103945125063,
+          -7.71928895131947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gamping 1",
+        "address": "Jl. Delisari Ds. Ambarketawang, Kec. Gamping 55294"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32029104586337,
+          -7.800664544997829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gamping 2",
+        "address": "PATRAN Ds. Bayuraden Kec. Gamping "
+      },
+      "geometry": {
+        "coordinates": [
+          110.3377886539987,
+          -7.783101082385258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati I",
+        "address": "KUTU TEGALSINDUADI MLATI SLEMANi 5584"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36287527527094,
+          -7.754453272038646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati II",
+        "address": "CEBONGAN, SUMBERADI, MLATI SLEMAN Kec. Mlati"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32849609585793,
+          -7.748752163106914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok I",
+        "address": "NANGGULAN,Ringinsari Ds. Maguwoharjo, Kec. Depok 555282"
+      },
+      "geometry": {
+        "coordinates": [
+          110.43141716216604,
+          -7.774899015462466
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok II",
+        "address": "Jl. Leli III Perumnas Condong Catur, Kec. Depok"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40818631711738,
+          -7.756571970904361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Piyungan",
+        "address": "Jalan Jogja Wonosari No.Km.12, Bantaran Wetan, Srimulyo, Kec. Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55792"
+      },
+      "geometry": {
+        "coordinates": [
+          110.4487240007241,
+          -7.828570956443443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Berbah",
+        "address": "JAGALAN, TEGALTIRTO, Kec. Berbah 55563"
+      },
+      "geometry": {
+        "coordinates": [
+          110.42998411736528,
+          -7.820358196425332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Prambanan",
+        "address": "Ds. Gatak Bokoharjo, Kec. Prambanan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.48199920529896,
+          -7.780071119249371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas I Tempel",
+        "address": "Jl. Magelang KM 17,5, Kec. Tempel 55552"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32718550313172,
+          -7.658165240372284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+            "name" : "Puskesmas Godean II",
+            "address" : "DUKUH, Nogosari Ds. Sidokarto, Kec. Godean 55564"},
+      "geometry": {
+        "coordinates": [
+          110.30385860108811,
+          -7.776666897504072
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
